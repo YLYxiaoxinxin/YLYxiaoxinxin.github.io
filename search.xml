@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>日常小记</title>
+      <link href="2020/12/10/%E6%97%A5%E5%B8%B8%E5%B0%8F%E8%AE%B0/"/>
+      <url>2020/12/10/%E6%97%A5%E5%B8%B8%E5%B0%8F%E8%AE%B0/</url>
+      
+        <content type="html"><![CDATA[<h1 id="Markdown-语法"><a href="#Markdown-语法" class="headerlink" title="Markdown 语法"></a>Markdown 语法</h1><p><code>print (&#39;hello world&#39;)</code></p><pre class=" language-python"><code class="language-python"><span class="token keyword">for</span> i <span class="token keyword">in</span> range<span class="token punctuation">(</span><span class="token number">8</span><span class="token punctuation">)</span>    <span class="token keyword">print</span><span class="token punctuation">(</span>i<span class="token punctuation">)</span></code></pre><p>ctrl n 快捷键表示n级标题</p><p>ctrl +  u<u>加下划线</u><br>$$<br>数学公式 a + b = 3，c + d = 4<br>$$</p><h6 id="分割线"><a href="#分割线" class="headerlink" title="分割线"></a>分割线</h6><hr><h6 id="超链接"><a href="#超链接" class="headerlink" title="超链接"></a>超链接</h6><p><a href="%E9%93%BE%E6%8E%A5%E5%9C%B0%E5%9D%80%22%E9%93%BE%E6%8E%A5%E6%8F%8F%E8%BF%B0%22">链接文字</a></p><p>比如 <a href="https://baidu.com/%22%E8%BF%99%E6%98%AF%E7%99%BE%E5%BA%A6%E7%9A%84%E8%B6%85%E9%93%BE%E6%8E%A5%22">百度一下</a></p><h6 id="图片"><a href="#图片" class="headerlink" title="图片"></a>图片</h6><p>语法：！【图片文字】（图片地址“图片描述”）</p><p>比如：<img src="https://www.example.com/example.png" alt="实例图片"></p><h6 id="首页显示"><a href="#首页显示" class="headerlink" title="首页显示"></a>首页显示</h6><a id="more"></a><p>文章太长时会显得十分冗余，加入这个只会显示标志前面的内容</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 生活 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 随笔 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Hello World</title>
       <link href="2020/12/07/hello-world/"/>
       <url>2020/12/07/hello-world/</url>
