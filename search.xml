@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title>51单片机点亮LED灯</title>
+      <link href="2021/01/29/51%E5%8D%95%E7%89%87%E6%9C%BA%E7%82%B9%E4%BA%AELED%E7%81%AF/"/>
+      <url>2021/01/29/51%E5%8D%95%E7%89%87%E6%9C%BA%E7%82%B9%E4%BA%AELED%E7%81%AF/</url>
+      
+        <content type="html"><![CDATA[<p>##什么是单片机</p><p>​     <strong>我们都知道电脑由CPU、内存、磁盘、IO设备等组成的，而单片机简而言之就是一个微型电脑，它在一块芯片上包含了CPU、硬盘（flash）和内存条（ram）以及基本输入输出设备（IO口）。</strong></p><p><strong>本次学习目的是点亮一个LED灯</strong></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Hello World</title>
       <link href="2020/12/07/hello-world/"/>
       <url>2020/12/07/hello-world/</url>
